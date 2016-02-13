@@ -1,0 +1,24 @@
+.dropdivs{
+	display: inline-block;
+	width: 250px;
+	border: 1px solid #a0a0a0;
+	border-radius: 3px;
+	vertical-align: top;
+	margin: 2px;
+	font-size: 12px;
+}
+.dragitems{
+	margin: 0px;
+	padding: 5px;
+}
+.draglabels{
+	border: 1px solid black;
+	border-radius: 3px;
+	padding: 3px;
+	cursor: pointer;
+	font-size: 10px;
+	background-color: white;
+}
+.insertDiv{
+	border: 1px dashed #a0a0a0;
+}
